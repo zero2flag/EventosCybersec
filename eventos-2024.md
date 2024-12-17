@@ -52,7 +52,7 @@ Uma lista de eventos de cibersegurança confirmados para o ano de **2024**. Esta
 | Nome do Evento | Data do Evento | Local | Tipo de Conteúdo |
 |--------------------------------------------------|------------------------|--------------------|-------------|
 | [BSides LV](https://bsideslv.org)                | 06-08-2024 a 07-08-2024| Las Vegas, US      | A preencher |
-| [Black Hat Las Vegas](https://blackhat.com)      | 03-08-2024 a 08-08-2024| Las Vegas, US      | TEM POUCO OU VALE A PENA IR POR OUTRO TIPO DE CONTEÚDO |
+| [Black Hat Las Vegas](https://blackhat.com)      | 03-08-2024 a 08-08-2024| Las Vegas, US      | TEM POUCO CONTEUDO TECNICO OU VALE A PENA IR POR OUTRO TIPO DE CONTEÚDO |
 | [DEFCON](https://defcon.org)                     | 09-08-2024 a 12-08-2024| Las Vegas, US      | É TUDO TÉCNICO|
 | [BXSEC](https://bxsec.com.br)                    | 24-10-2024    | Santos, SP | A preencher |
 
@@ -60,7 +60,7 @@ Uma lista de eventos de cibersegurança confirmados para o ano de **2024**. Esta
 
 | Nome do Evento | Data do Evento | Local | Tipo de Conteúdo |
 |--------------------------------------------------|------------------------|--------------------|-------------|
-| [Mind the Sec](https://mindthesec.com.br)        | 17-09-2024 a 19-09-2024| São Paulo, BR      | TEM POUCO OU VALE A PENA IR POR OUTRO TIPO DE CONTEÚDO |
+| [Mind the Sec](https://mindthesec.com.br)        | 17-09-2024 a 19-09-2024| São Paulo, BR      | TEM POUCO CONTEUDO TECNICO OU VALE A PENA IR POR OUTRO TIPO DE CONTEÚDO |
 | [Gartner CIO & IT Executive SP](https://gartner.com) | 22-09-2024 a 24-09-2024| São Paulo, BR      | A preencher |
 
 ## Outubro

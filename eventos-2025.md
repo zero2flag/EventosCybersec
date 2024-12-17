@@ -32,7 +32,7 @@ Uma lista de eventos de cibersegurança confirmados para o ano de **2025**. Esta
 
 | Nome do Evento | Data do Evento | Local | Tipo de Conteúdo |
 |----------------|---------------|-------|-------------|
-| [Offensive Security Conference](https://www.offensivecon.org)       | 12-05-2025    | Berlin, Alemanha | A Preencher |
+| [Offensive Security Conference](https://www.offensivecon.org)       | 12/05/2025 | Berlin, Alemanha | A Preencher |
 | [Porteira 443](https://www.linkedin.com/events/porteira4437271982563928199168) | 17/05/2025 | Goiania - GO | Hacking e privacidade, além de networking e troca de experiência |
 | [YSTS](https://ysts.com.br)                      | MAIO?    | São Paulo, BR | ABORDA BASTANTE PONTOS TÉCNICOS |
 | SIRENA Human Risk & Cybersec Conference | 29/05/2025 | São Paulo, BR | Cultura e Conscientização em Cibersegurança, Soluções e Gestão de Segurança, Carreira, etc  |

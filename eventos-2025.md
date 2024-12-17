@@ -13,6 +13,7 @@ Uma lista de eventos de cibersegurança confirmados para o ano de **2025**. Esta
 | Nome do Evento | Data do Evento | Local | Tipo de Conteúdo |
 |----------------|---------------|-------|-------------|
 | [Digital Investigation Conference Brazil 2025](https://www.sympla.com.br/evento/digital-investigation-conference-brazil-2025/2666948) | 14/02/2025 | Porto Alegre, RS | Painéis e palestras que exploram os desafios e inovações na investigação cibernética |
+| [FortalSec](https://www.fortalsec.com.br) | 22/02/2025 | Fortaleza - CE | A Preencher |
 
 ## Março
 
@@ -31,7 +32,9 @@ Uma lista de eventos de cibersegurança confirmados para o ano de **2025**. Esta
 | Nome do Evento | Data do Evento | Local | Tipo de Conteúdo |
 |----------------|---------------|-------|-------------|
 | [Offensive Security Conference](https://www.offensivecon.org)       | 12-05-2025    | Berlin, Alemanha | A Preencher |
+| [Porteira 443](https://www.linkedin.com/events/porteira4437271982563928199168) | 17/05/2025 | Goiania - GO | Hacking e privacidade, além de networking e troca de experiência |
 | [YSTS](https://ysts.com.br)                      | MAIO?    | São Paulo, BR | ABORDA BASTANTE PONTOS TÉCNICOS |
+| SIRENA Human Risk & Cybersec Conference | 29/05/2025 | São Paulo, BR | Cultura e Conscientização em Cibersegurança, Soluções e Gestão de Segurança, Carreira, etc  |
 
 ## Junho
 

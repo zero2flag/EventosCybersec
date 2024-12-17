@@ -18,7 +18,7 @@ Se voce quer se organizar para planejar uma viagem ou participar de eventos de c
 
 ## 🔍 Foco
 
-O repositorio e **tecnico** e foca em eventos relevantes para a comunidade de seguranca ofensiva, como:
+O repositorio é **tecnico** e foca em eventos relevantes para a comunidade de seguranca cibernética, como:
 - 📊 Conferencias tecnicas
 - 🏆 Competicoes de CTF
 - 💡 Workshops especializados

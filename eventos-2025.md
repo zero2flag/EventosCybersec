@@ -48,6 +48,7 @@ Uma lista de eventos de cibersegurança confirmados para o ano de **2025**. Esta
 | Nome do Evento | Data do Evento | Local | Tipo de Conteúdo |
 |----------------|---------------|-------|-------------|
 | Security Bytes Belo Horizonte | 05/06/2025 | Belo Horizonte, MG | Evento focado em Networking/Happy Hour |
+| [Febraban Tech](https://febrabantech.febraban.org.br/eventos/febrabantech2025) | 10/06/2025 a 12/06/2025 | São Paulo, SP | Evento de tecnologia porém focado as instituições financeiras, pode ser que haja uma trilha ou algumas palestras abordando segurança |
 | Hacking na Web Day MG | 17/06/2025 | Belo Horizonte, MG | A Preencher |
 
 ## Julho

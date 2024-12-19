@@ -29,6 +29,7 @@ Uma lista de eventos de cibersegurança confirmados para o ano de **2025**. Esta
 
 | Nome do Evento | Data do Evento | Local | Tipo de Conteúdo |
 |----------------|---------------|-------|-------------|
+| 0xe Hacker Conference | 05/04/2025 | Maceio, AL | A Preencher |
 | Security Bytes Recife | 10/04/2025 | Recife, PE | Evento focado em Networking/Happy Hour |
 | Hacking na Web Day PE | 12/04/2025 | Recife, PE | A Preencher |
 
@@ -38,7 +39,8 @@ Uma lista de eventos de cibersegurança confirmados para o ano de **2025**. Esta
 |----------------|---------------|-------|-------------|
 | [Offensive Security Conference](https://www.offensivecon.org) | 12/05/2025 | Berlin, Alemanha | A Preencher |
 | [Porteira 443](https://www.linkedin.com/events/porteira4437271982563928199168) | 17/05/2025 | Goiania - GO | Hacking e privacidade, além de networking e troca de experiência |
-| [YSTS](https://ysts.com.br) | MAIO?    | São Paulo, BR | ABORDA BASTANTE PONTOS TÉCNICOS |
+| BSidesSP | 17/05/2025 a 18/05/2025 | São Paulo, BR | Evento que reforça a cena hacking |
+| [YSTS 17](https://ysts.com.br) | 19/05/2025 | São Paulo, BR | ABORDA BASTANTE PONTOS TÉCNICOS |
 | SIRENA Human Risk & Cybersec Conference | 29/05/2025 | São Paulo, BR | Cultura e Conscientização em Cibersegurança, Soluções e Gestão de Segurança, Carreira, etc |
 
 ## Junho
@@ -52,13 +54,14 @@ Uma lista de eventos de cibersegurança confirmados para o ano de **2025**. Esta
 
 | Nome do Evento | Data do Evento | Local | Tipo de Conteúdo |
 |----------------|---------------|-------|-------------|
-| -             | -             | -     | -           |
+| [Cajusec Security Conference](https://www.cajusec.com.br) | 18/07/2025 a 19/07/2025 | Aracaju, Sergipe | A Preencher |
 
 ## Agosto
 
 | Nome do Evento | Data do Evento | Local | Tipo de Conteúdo |
 |----------------|---------------|-------|-------------|
 | [Black Hat USA](https://www.blackhat.com) | 02-08-2025 a 07-08-2025    | Las Vegas | A preencher |
+| Gartner | 05/08/2025 a 06/08/2025   | são Paulo, SP | A preencher |
 | [DEF CON 33](https://defcon.org) | 07/08/2025 a 10/08/2025    | Las Vegas | A preencher |
 | Security Bytes Florianópolis | 14/08/2025 | Florianópolis, SC | Evento focado em Networking/Happy Hour |
 | Hacking na Web Day SC | 16/08/2025 | Florianópolis, SC | A Preencher |
@@ -69,6 +72,7 @@ Uma lista de eventos de cibersegurança confirmados para o ano de **2025**. Esta
 | Nome do Evento | Data do Evento | Local | Tipo de Conteúdo |
 |----------------|---------------|-------|-------------|
 | XibéSec | 13/09/2025 | Belém, PA | A Preencher |
+| BSides João Pessoa | 20/09/2025 | João Pessoa, Paraiba | A Preencher |
 | Security Bytes RJ | 25/09/2025 | Rio de Janeiro, RJ | Evento focado em Networking/Happy Hour |
 | Hacking na Web Day RJ | 27/09/2025 | Rio de Janeiro, RJ | A Preencher |
 
@@ -89,7 +93,7 @@ Uma lista de eventos de cibersegurança confirmados para o ano de **2025**. Esta
 
 | Nome do Evento | Data do Evento | Local | Tipo de Conteúdo |
 |----------------|---------------|-------|-------------|
-| -             | -             | -     | -           |
+| BHack Conference | 04/12/2025 a 05/12/2025 | Belo Horizonte, MG | -           |
 
 ---
 

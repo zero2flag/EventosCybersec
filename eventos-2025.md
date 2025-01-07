@@ -16,6 +16,7 @@ Uma lista de eventos de cibersegurança confirmados para o ano de **2025**. Esta
 | [Hack In Cariri](https://hackincariri.com.br) | 15/02/2025 | Juazeiro do Norte - CE | Evento da comunidade que contém CTF |
 | Security Bytes Fortaleza | 19/02/2025 | Fortaleza, CE | Evento focado em Networking/Happy Hour |
 | [FortalSec](https://www.fortalsec.com.br) | 22/02/2025 | Fortaleza - CE | A Preencher |
+| [RISE Finland 2025](https://www.team-cymru.com/rise-finland) | 10/02/2025 a 12/02/2025 | Helsinki, Finlândia | From sim swapping to ransomware OPSEC investigations and state-sponsored hacking workshops, RISE delves into the most cutting-edge topics in cybersecurity. |
 
 ## Março
 

@@ -76,6 +76,7 @@ Uma lista de eventos de cibersegurança confirmados para o ano de **2025**. Esta
 | Nome do Evento | Data do Evento | Local | Tipo de Conteúdo |
 |----------------|---------------|-------|-------------|
 | XibéSec | 13/09/2025 | Belém, PA | A Preencher |
+| Mind The Sec | 16/09/2025 a 18/09/2025 | São Paulo, SP | Evento de segurança corporativo |
 | BSides João Pessoa | 20/09/2025 | João Pessoa, Paraiba | A Preencher |
 | Security Bytes RJ | 25/09/2025 | Rio de Janeiro, RJ | Evento focado em Networking/Happy Hour |
 | Hacking na Web Day RJ | 27/09/2025 | Rio de Janeiro, RJ | A Preencher |

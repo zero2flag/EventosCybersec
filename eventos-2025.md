@@ -86,6 +86,7 @@ Uma lista de eventos de cibersegurança confirmados para o ano de **2025**. Esta
 | Nome do Evento | Data do Evento | Local | Tipo de Conteúdo |
 |----------------|---------------|-------|-------------|
 | Security Bytes São Paulo | 23/10/2025 | São Paulo, SP | Evento focado em Networking/Happy Hour |
+| [Ekoparty](https://ekoparty.org) | 22/10/2025 a 24/10/2025 | Buenos Aires, AR | Evento técnico muito bom! Recomendado |
 | Hacking na Web Day | 25/10/2025 | São Paulo, SP | A Preencher |
 
 ## Novembro

@@ -88,6 +88,7 @@ Uma lista de eventos de cibersegurança confirmados para o ano de **2025**. Esta
 | Security Bytes São Paulo | 23/10/2025 | São Paulo, SP | Evento focado em Networking/Happy Hour |
 | [Ekoparty](https://ekoparty.org) | 22/10/2025 a 24/10/2025 | Buenos Aires, AR | Evento técnico muito bom! Recomendado |
 | Hacking na Web Day | 25/10/2025 | São Paulo, SP | A Preencher |
+| [Cyber Security Summit](https://cybersecuritysummit.com.br) | 27/10/2025 e 28/10/2025 | São Paulo, BR | Principal conferência de cibersegurança do país, reunindo anualmente CEOs, CIOs, CISOs, CTOs, CROs, líderes do governo e especialistas para discutir os desafios mais relevantes do cenário digital. Com mais de 70% do público composto por tomadores de decisão, o evento se tornou o ponto de encontro estratégico para quem lidera a transformação da segurança no Brasil. |
 
 ## Novembro
 

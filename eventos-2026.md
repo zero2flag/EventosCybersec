@@ -1,6 +1,6 @@
 # Eventos de Segurança 2026
 
-Uma lista de eventos de cibersegurança confirmados para o ano de **2025**. Esta tabela será preenchida conforme novos eventos forem anunciados.
+Uma lista de eventos de cibersegurança confirmados para o ano de **2026**. Esta tabela será preenchida conforme novos eventos forem anunciados.
 
 ## Janeiro
 

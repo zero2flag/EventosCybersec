@@ -6,7 +6,7 @@ Uma lista de eventos de cibersegurança confirmados para o ano de **2025**. Esta
 
 | Nome do Evento | Data do Evento | Local | Tipo de Conteúdo | Online ou Presencial? |
 |----------------|---------------|-------|-------------------|---------------------|
-| [BSides Panamá](https://bsidespa.org) | 23/03/2026 e 24/03/2026 | Panamá | Evento da Comunidade | Presencial |
+| [BSides Panamá](https://bsidespa.org) | 23/01/2026 e 24/01/2026 | Panamá | Evento da Comunidade | Presencial |
 | [Oxum Hacker Conference](https://www.sympla.com.br/evento/oxum-hacker-conference/3212017) | 31/01/2026 | Salvador, Bahia, Brazil | Evento Técnico focado em fundamentos | Presencial |
 
 ## Fevereiro

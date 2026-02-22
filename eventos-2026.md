@@ -21,6 +21,7 @@ Uma lista de eventos de cibersegurança confirmados para o ano de **2025**. Esta
 |----------------|---------------|-------|-------------------|---------------------|
 | [RootedCON](https://rootedcon.com) | 05/03/2026 a 07/03/2026| Madrid, Espanha | A Preencher | Presencial |
 | [Hack In Cariri](https://hackincariri.com.br) | 07/03/2026 | Juazeiro do Norte - CE | Evento da comunidade que contém CTF | Presencial |
+| [BSides Málaga](https://www.bsidesmalaga.com) | 20/03/2026 | Málaga, Espanha | Evento da Comunidade | Presencial |
 | [Hacking na Web Day DF](https://www.sympla.com.br/evento/hnwd-brasilia-2026/3228889) | 21/03/2026 | Brasilia, DF | Evento da comunidade | Presencial |
 | [RSA Conference](https://www.rsaconference.com/) | 23/03/2026 a 26/03/2026 | San Francisco | Focado em tecnologia e tendências | Presencial |
 | [BSides RJ](https://bsidesrj.com.br/) | 28/03/2026 | Tijuca, Rio de Janeiro | Evento da Comunidade | Presencial |

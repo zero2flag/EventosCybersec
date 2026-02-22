@@ -4,102 +4,98 @@ Uma lista de eventos de cibersegurança confirmados para o ano de **2025**. Esta
 
 ## Janeiro
 
-| Nome do Evento | Data do Evento | Local | Tipo de Conteúdo |
-|----------------|---------------|-------|-------------|
-| -             | -             | -     | -           |
+| Nome do Evento | Data do Evento | Local | Tipo de Conteúdo | Online ou Presencial? |
+|----------------|---------------|-------|-------------------|---------------------|
+| [BSides Panamá](https://bsidespa.org) | 23-03-2026 e 24-03-2026 | Panamá | Evento da Comunidade | Presencial |
+| [Oxum Hacker Conference](https://www.sympla.com.br/evento/oxum-hacker-conference/3212017) | 31/01/2026 | Salvador, Bahia, Brazil | Evento Técnico focado em fundamentos | Presencial |
 
 ## Fevereiro
 
-| Nome do Evento | Data do Evento | Local | Tipo de Conteúdo |
-|----------------|---------------|-------|-------------|
-| [Digital Investigation Conference Brazil 2025](https://www.sympla.com.br/evento/digital-investigation-conference-brazil-2025/2666948) | 14/02/2025 | Porto Alegre, RS | Painéis e palestras que exploram os desafios e inovações na investigação cibernética |
-| [Hack In Cariri](https://hackincariri.com.br) | 15/02/2025 | Juazeiro do Norte - CE | Evento da comunidade que contém CTF |
-| Security Bytes Fortaleza | 19/02/2025 | Fortaleza, CE | Evento focado em Networking/Happy Hour |
-| [FortalSec](https://www.fortalsec.com.br) | 22/02/2025 | Fortaleza - CE | A Preencher |
-| [RISE Finland 2025](https://www.team-cymru.com/rise-finland) | 10/02/2025 a 12/02/2025 | Helsinki, Finlândia | From sim swapping to ransomware OPSEC investigations and state-sponsored hacking workshops, RISE delves into the most cutting-edge topics in cybersecurity. |
+| Nome do Evento | Data do Evento | Local | Tipo de Conteúdo | Online ou Presencial? |
+|----------------|---------------|-------|-------------------|---------------------|
+| [Digital Investigation Conference Brazil 2026](https://wbeduca.com.br/pt/cursos/digital-investigation-conference-brazil-2026-1o-dia-de-evento) | 26/02/2026 | Porto Alegre, RS | Painéis e palestras que exploram os desafios e inovações na investigação cibernética | Presencial |
 
 ## Março
 
-| Nome do Evento | Data do Evento | Local | Tipo de Conteúdo |
-|----------------|---------------|-------|-------------|
-| Security Bytes Brasília | 13/03/2025 | Brasília, DF | Evento focado em Networking/Happy Hour |
-| Hacking na Web Day DF | 15/03/2025 | Brasilia, DF | A Preencher |
-| [BSides RJ](https://bsidesrj.com.br/) | 22-03-2025 | Maracanã, Rio de Janeiro | A Preencher |
+| Nome do Evento | Data do Evento | Local | Tipo de Conteúdo | Online ou Presencial? |
+|----------------|---------------|-------|-------------------|---------------------|
+| [RootedCON](https://rootedcon.com) | 05/03/2026 a 07/03/2026| Madrid, Espanha | A Preencher | Presencial |
+| [Hack In Cariri](https://hackincariri.com.br) | 07/03/2026 | Juazeiro do Norte - CE | Evento da comunidade que contém CTF | Presencial |
+| [Hacking na Web Day DF](https://www.sympla.com.br/evento/hnwd-brasilia-2026/3228889) | 21/03/2026 | Brasilia, DF | Evento da comunidade | Presencial |
+| [BSides RJ](https://bsidesrj.com.br/) | 28-03-2026 | Tijuca, Rio de Janeiro | Evento da Comunidade | Presencial |
 
 ## Abril
 
-| Nome do Evento | Data do Evento | Local | Tipo de Conteúdo |
-|----------------|---------------|-------|-------------|
-| 0xe Hacker Conference | 05/04/2025 | Maceio, AL | A Preencher |
-| Security Bytes Recife | 10/04/2025 | Recife, PE | Evento focado em Networking/Happy Hour |
-| Hacking na Web Day PE | 12/04/2025 | Recife, PE | A Preencher |
+| Nome do Evento | Data do Evento | Local | Tipo de Conteúdo | Online ou Presencial? |
+|----------------|---------------|-------|-------------------|---------------------|
+| [FortalSec](https://www.fortalsec.com.br) | 25/04/2026 | Fortaleza - CE | Evento focado para discutir as mais recentes tendências, ameaças e soluções na segurança | Presencial |
+| [0xe Hacker Conference](https://doity.com.br/0xe-hacker-conference-2026) | 11/04/2026 | Maceio, AL | Conferência dedicado ao compartilhamento do conhecimento sobre hacking e segurança | Presencial |
+| [BSides Colombia](https://bsidesco.org) | 24/04/2026 e 25/04/2026 | Medellín, Colombia | Evento que reforça a cena hacking | Presencial |
+| [BSides Floripa](https://www.bsidesfloripa.org) | 25/04/2026 | Florianópolis, SC | Evento que reforça a cena hacking | Presencial |
 
 ## Maio
 
-| Nome do Evento | Data do Evento | Local | Tipo de Conteúdo |
-|----------------|---------------|-------|-------------|
-| [Offensive Security Conference](https://www.offensivecon.org) | 12/05/2025 | Berlin, Alemanha | A Preencher |
-| [Porteira 443](https://www.linkedin.com/events/porteira4437271982563928199168) | 17/05/2025 | Goiania - GO | Hacking e privacidade, além de networking e troca de experiência |
-| BSidesSP | 17/05/2025 a 18/05/2025 | São Paulo, BR | Evento que reforça a cena hacking |
-| [YSTS 17](https://ysts.com.br) | 19/05/2025 | São Paulo, BR | ABORDA BASTANTE PONTOS TÉCNICOS |
-| SIRENA Human Risk & Cybersec Conference | 29/05/2025 | São Paulo, BR | Cultura e Conscientização em Cibersegurança, Soluções e Gestão de Segurança, Carreira, etc |
+| Nome do Evento | Data do Evento | Local | Tipo de Conteúdo | Online ou Presencial? |
+|----------------|---------------|-------|-------------------|---------------------|
+| [SIRENA Human Risk & Cybersec Conference](https://www.sirenaconference.com) | 14/05/2026 | São Paulo, BR | Cultura e Conscientização em Cibersegurança, Soluções e Gestão de Segurança, Carreira, etc | Presencial |
+| [Offensive Security Conference](https://www.offensivecon.org) | 15/05/2026 e 16/05/2026 | Berlin, Alemanha | Altamente técnico focado em segurança ofensiva | Presencial |
+| [BSidesSP](https://securitybsides.com.br/2026/) | 16/05/2026 a 17/05/2026 | São Paulo, BR | Evento que reforça a cena hacking | Presencial |
+| [YSTS 18](https://www.ysts.org) | 18/05/2026 | São Paulo, BR | A Preencher | Presencial |
+| [Ekoparty Miami](https://ekoparty.org) | 21/05/2026 a 22/05/2026 | Miami | Evento técnico | Presencial |
 
 ## Junho
 
-| Nome do Evento | Data do Evento | Local | Tipo de Conteúdo |
-|----------------|---------------|-------|-------------|
-| Security Bytes Belo Horizonte | 05/06/2025 | Belo Horizonte, MG | Evento focado em Networking/Happy Hour |
-| Hacking na Web Day MG | 07/06/2025 | Belo Horizonte, MG | A Preencher |
-| [BSides - Vitória](https://bsides.vix.br) | 07/06/2025 | Vitória - ES | Evento que reforça a cena hacking |
-| [Febraban Tech](https://febrabantech.febraban.org.br/eventos/febrabantech2025) | 10/06/2025 a 12/06/2025 | São Paulo, SP | Evento de tecnologia porém focado as instituições financeiras, pode ser que haja uma trilha ou algumas palestras abordando segurança |
+| Nome do Evento | Data do Evento | Local | Tipo de Conteúdo | Online ou Presencial? |
+|----------------|---------------|-------|-------------------|---------------------|
+| [BSides Recife](https://www.bsidesrecife.com.br) | 06/06/2026 | Recife, PE | Evento da comunidade | Presencial |
+| [BSides VIX](https://bsides.vix.br) | 20/06/2026 | Vitória, ES | Evento que reforça a cena hacking | Presencial |
+| 8.8 Brasil | 26/06/2026 e 27/06/2026 | São Paulo, SP | Evento Técnico | Presencial |
+| [BSides Porto](https://bsidesporto.org)) | 26/06/2026 e 27/06/2026 | Porto, Portugal | Evento que reforça a cena hacking | Presencial |
 
 ## Julho
 
-| Nome do Evento | Data do Evento | Local | Tipo de Conteúdo |
-|----------------|---------------|-------|-------------|
-| [Cajusec Security Conference](https://www.cajusec.com.br) | 18/07/2025 a 19/07/2025 | Aracaju, Sergipe | A Preencher |
+| Nome do Evento | Data do Evento | Local | Tipo de Conteúdo | Online ou Presencial? |
+|----------------|---------------|-------|-------------------|---------------------|
+| [Cajusec Security Conference](https://www.cajusec.com.br) | 11/07/2026 | Aracaju, Sergipe | A Preencher | Presencial |
+| BSides Porto Alegre | 25/07/2026 | Porto Alegre - Rio Grande do Sul | Evento que reforça a cena hacking | Presencial |
 
 ## Agosto
 
-| Nome do Evento | Data do Evento | Local | Tipo de Conteúdo |
-|----------------|---------------|-------|-------------|
-| [HackBahia](https://hackbahia.github.io) | TDB (Agosto) | Salvador, BA | conhecimento sobre a área de segurança da informação para profissionais e estudantes, principalmente para aqueles que estejam começando ou interessados em ingressar na área. |
-| [Black Hat USA](https://www.blackhat.com) | 02-08-2025 a 07-08-2025    | Las Vegas | A preencher |
-| Gartner | 05/08/2025 a 06/08/2025   | São Paulo, SP | A preencher |
-| [DEF CON 33](https://defcon.org) | 07/08/2025 a 10/08/2025    | Las Vegas | A preencher |
-| Security Bytes Florianópolis | 14/08/2025 | Florianópolis, SC | Evento focado em Networking/Happy Hour |
-| Hacking na Web Day SC | 16/08/2025 | Florianópolis, SC | A Preencher |
-| [BXSEC](https://bxsec.com.br) | 23/08/2025    | Santos, SP | A preencher |
+| Nome do Evento | Data do Evento | Local | Tipo de Conteúdo | Online ou Presencial? |
+|----------------|---------------|-------|-------------------|---------------------|
+| BSides Fortaleza | 01/08/2026 | Fortaleza, CE | Evento que reforça a cena hacking | Presencial |
+| [Black Hat USA](https://www.blackhat.com) | 01-08-2026 a 06-08-2026 | Las Vegas | A Preencher | Presencial |
+| [Conferência Gartner Segurança & Gestão de Risco](https://www.gartner.com/pt-br/conferences/la/security-risk-management-brazil) | 04/08/2026 a 05/08/2026   | São Paulo, SP | Soluções e tendências mais recentes em cibersegurança | Presencial |
+| [DEF CON 34](https://defcon.org) | 05/08/2026 a 08/08/2026 | Las Vegas | Evento altamente técnico | Presencial |
+| [BXSEC](https://bxsec.org) | 22/08/2026 | Santos, SP | A preencher | Presencial |
 
 ## Setembro
 
-| Nome do Evento | Data do Evento | Local | Tipo de Conteúdo |
-|----------------|---------------|-------|-------------|
-| XibéSec | 13/09/2025 | Belém, PA | A Preencher |
-| Mind The Sec | 16/09/2025 a 18/09/2025 | São Paulo, SP | Evento de segurança corporativo |
-| BSides João Pessoa | 20/09/2025 | João Pessoa, Paraiba | A Preencher |
-| Security Bytes RJ | 25/09/2025 | Rio de Janeiro, RJ | Evento focado em Networking/Happy Hour |
-| Hacking na Web Day RJ | 27/09/2025 | Rio de Janeiro, RJ | A Preencher |
+| Nome do Evento | Data do Evento | Local | Tipo de Conteúdo | Online ou Presencial? |
+|----------------|---------------|-------|-------------------|---------------------|
+| [Mind The Sec](https://www.mindthesec.com.br) | 15/09/2026 a 17/09/2026 | São Paulo, SP | Evento de segurança corporativo | Híbrido |
+| XibéSec | 19/09/2026 | Belém, PA | A Preencher | Presencial |
+| [BSides João Pessoa](https://www.bsidesjp.com.br) | 19/09/2026 | João Pessoa, Paraiba | Evento da Comunidade | Presencial |
 
 ## Outubro
 
-| Nome do Evento | Data do Evento | Local | Tipo de Conteúdo |
-|----------------|---------------|-------|-------------|
-| Security Bytes São Paulo | 23/10/2025 | São Paulo, SP | Evento focado em Networking/Happy Hour |
-| [Ekoparty](https://ekoparty.org) | 22/10/2025 a 24/10/2025 | Buenos Aires, AR | Evento técnico muito bom! Recomendado |
-| Hacking na Web Day | 25/10/2025 | São Paulo, SP | A Preencher |
+| Nome do Evento | Data do Evento | Local | Tipo de Conteúdo | Online ou Presencial? |
+|----------------|---------------|-------|-------------------|---------------------|
+| [Hacking na Web Day](https://www.hackingnawebday.com) | 17/10/2026 | São Paulo, SP | A Preencher | Presencial |
 
 ## Novembro
 
-| Nome do Evento | Data do Evento | Local | Tipo de Conteúdo |
-|----------------|---------------|-------|-------------|
-| [Nullbyte](https://nullbyte.conference.br)       | 08-11-2025    | Salvador, BH | É TUDO TÉCNICO |
+| Nome do Evento | Data do Evento | Local | Tipo de Conteúdo | Online ou Presencial? |
+|----------------|---------------|-------|-------------------|---------------------|
+| [Nullbyte](https://nullbyte.conference.br) | 07-11-2026 | Salvador, BA | Evento altamente técnico | Presencial |
+| [BSides BSB](https://www.instagram.com/bsidesbsb/) | 14-11-2026 | Brasília, DF | Evento da comunidade | Presencial |
+| [BHack Conference](https://www.bhack.com.br) | 28/11/2026 e 29/11/2026 | Belo Horizonte, MG | A Preencher | Presencial |
 
 ## Dezembro
 
-| Nome do Evento | Data do Evento | Local | Tipo de Conteúdo |
-|----------------|---------------|-------|-------------|
-| BHack Conference | 04/12/2025 a 05/12/2025 | Belo Horizonte, MG | -           |
+| Nome do Evento | Data do Evento | Local | Tipo de Conteúdo | Online ou Presencial? |
+|----------------|---------------|-------|-------------------|---------------------|
+
 
 ---
 

@@ -6,7 +6,7 @@ Uma lista de eventos de cibersegurança confirmados para o ano de **2025**. Esta
 
 | Nome do Evento | Data do Evento | Local | Tipo de Conteúdo | Online ou Presencial? |
 |----------------|---------------|-------|-------------------|---------------------|
-| [BSides Panamá](https://bsidespa.org) | 23-03-2026 e 24-03-2026 | Panamá | Evento da Comunidade | Presencial |
+| [BSides Panamá](https://bsidespa.org) | 23/03/2026 e 24/03/2026 | Panamá | Evento da Comunidade | Presencial |
 | [Oxum Hacker Conference](https://www.sympla.com.br/evento/oxum-hacker-conference/3212017) | 31/01/2026 | Salvador, Bahia, Brazil | Evento Técnico focado em fundamentos | Presencial |
 
 ## Fevereiro
@@ -22,7 +22,8 @@ Uma lista de eventos de cibersegurança confirmados para o ano de **2025**. Esta
 | [RootedCON](https://rootedcon.com) | 05/03/2026 a 07/03/2026| Madrid, Espanha | A Preencher | Presencial |
 | [Hack In Cariri](https://hackincariri.com.br) | 07/03/2026 | Juazeiro do Norte - CE | Evento da comunidade que contém CTF | Presencial |
 | [Hacking na Web Day DF](https://www.sympla.com.br/evento/hnwd-brasilia-2026/3228889) | 21/03/2026 | Brasilia, DF | Evento da comunidade | Presencial |
-| [BSides RJ](https://bsidesrj.com.br/) | 28-03-2026 | Tijuca, Rio de Janeiro | Evento da Comunidade | Presencial |
+| [RSA Conference](https://www.rsaconference.com/) | 23/03/2026 a 26/03/2026 | San Francisco | Focado em tecnologia e tendências | Presencial |
+| [BSides RJ](https://bsidesrj.com.br/) | 28/03/2026 | Tijuca, Rio de Janeiro | Evento da Comunidade | Presencial |
 
 ## Abril
 
@@ -58,13 +59,14 @@ Uma lista de eventos de cibersegurança confirmados para o ano de **2025**. Esta
 |----------------|---------------|-------|-------------------|---------------------|
 | [Cajusec Security Conference](https://www.cajusec.com.br) | 11/07/2026 | Aracaju, Sergipe | A Preencher | Presencial |
 | BSides Porto Alegre | 25/07/2026 | Porto Alegre - Rio Grande do Sul | Evento que reforça a cena hacking | Presencial |
+| 8.8 México | 29/07/2026 e 31/07/2026 | México | Evento Técnico | Presencial |
 
 ## Agosto
 
 | Nome do Evento | Data do Evento | Local | Tipo de Conteúdo | Online ou Presencial? |
 |----------------|---------------|-------|-------------------|---------------------|
 | BSides Fortaleza | 01/08/2026 | Fortaleza, CE | Evento que reforça a cena hacking | Presencial |
-| [Black Hat USA](https://www.blackhat.com) | 01-08-2026 a 06-08-2026 | Las Vegas | A Preencher | Presencial |
+| [Black Hat USA](https://www.blackhat.com) | 01/08/2026 a 06/08/2026 | Las Vegas | A Preencher | Presencial |
 | [Conferência Gartner Segurança & Gestão de Risco](https://www.gartner.com/pt-br/conferences/la/security-risk-management-brazil) | 04/08/2026 a 05/08/2026   | São Paulo, SP | Soluções e tendências mais recentes em cibersegurança | Presencial |
 | [DEF CON 34](https://defcon.org) | 05/08/2026 a 08/08/2026 | Las Vegas | Evento altamente técnico | Presencial |
 | [BXSEC](https://bxsec.org) | 22/08/2026 | Santos, SP | A preencher | Presencial |
@@ -73,6 +75,7 @@ Uma lista de eventos de cibersegurança confirmados para o ano de **2025**. Esta
 
 | Nome do Evento | Data do Evento | Local | Tipo de Conteúdo | Online ou Presencial? |
 |----------------|---------------|-------|-------------------|---------------------|
+| 8.8 Ecuador | 03/09/2026 e 04/09/2026 | Equador | Evento Técnico | Presencial |
 | [Mind The Sec](https://www.mindthesec.com.br) | 15/09/2026 a 17/09/2026 | São Paulo, SP | Evento de segurança corporativo | Híbrido |
 | XibéSec | 19/09/2026 | Belém, PA | A Preencher | Presencial |
 | [BSides João Pessoa](https://www.bsidesjp.com.br) | 19/09/2026 | João Pessoa, Paraiba | Evento da Comunidade | Presencial |
@@ -81,14 +84,15 @@ Uma lista de eventos de cibersegurança confirmados para o ano de **2025**. Esta
 
 | Nome do Evento | Data do Evento | Local | Tipo de Conteúdo | Online ou Presencial? |
 |----------------|---------------|-------|-------------------|---------------------|
+| 8.8 Chile | 01/10/2026 e 02/10/2026 | Santiago, Chile | Evento Técnico | Presencial |
 | [Hacking na Web Day](https://www.hackingnawebday.com) | 17/10/2026 | São Paulo, SP | A Preencher | Presencial |
 
 ## Novembro
 
 | Nome do Evento | Data do Evento | Local | Tipo de Conteúdo | Online ou Presencial? |
 |----------------|---------------|-------|-------------------|---------------------|
-| [Nullbyte](https://nullbyte.conference.br) | 07-11-2026 | Salvador, BA | Evento altamente técnico | Presencial |
-| [BSides BSB](https://www.instagram.com/bsidesbsb/) | 14-11-2026 | Brasília, DF | Evento da comunidade | Presencial |
+| [Nullbyte](https://nullbyte.conference.br) | 07/11/2026 | Salvador, BA | Evento altamente técnico | Presencial |
+| [BSides BSB](https://www.instagram.com/bsidesbsb/) | 14/11/2026 | Brasília, DF | Evento da comunidade | Presencial |
 | [BHack Conference](https://www.bhack.com.br) | 28/11/2026 e 29/11/2026 | Belo Horizonte, MG | A Preencher | Presencial |
 
 ## Dezembro

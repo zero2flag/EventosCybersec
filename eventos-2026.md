@@ -55,7 +55,7 @@ Uma lista de eventos de cibersegurança confirmados para o ano de **2026**. Esta
 | [FIRST Conference](https://www.first.org/conference/2026/) | 14/06/2026 e 19/06/2026 | Denver, Colorado, USA | A Preencher | Presencial |
 | [BSides VIX](https://bsides.vix.br) | 20/06/2026 | Vitória, ES | Evento que reforça a cena hacking | Presencial |
 | 8.8 Brasil | 26/06/2026 e 27/06/2026 | São Paulo, SP | Evento Técnico | Presencial |
-| [BSides Porto](https://bsidesporto.org)) | 26/06/2026 e 27/06/2026 | Porto, Portugal | Evento que reforça a cena hacking | Presencial |
+| [BSides Porto](https://bsidesporto.org) | 26/06/2026 e 27/06/2026 | Porto, Portugal | Evento que reforça a cena hacking | Presencial |
 
 ## Julho
 
@@ -76,7 +76,7 @@ Uma lista de eventos de cibersegurança confirmados para o ano de **2026**. Esta
 | [Conferência Gartner Segurança & Gestão de Risco](https://www.gartner.com/pt-br/conferences/la/security-risk-management-brazil) | 04/08/2026 a 05/08/2026   | São Paulo, SP | Soluções e tendências mais recentes em cibersegurança | Presencial |
 | [DEF CON 34](https://defcon.org) | 05/08/2026 a 08/08/2026 | Las Vegas | Evento altamente técnico | Presencial |
 | [BXSEC](https://bxsec.org) | 22/08/2026 | Santos, SP | A preencher | Presencial |
-| [Hack'á Valley](https://www.linkedin.com/company/hack-a-valley-security-conference/) | 29/08/2026 | Vale do Paraíba, São Paulo | A preencher | Presencial |
+| [Hack'a Valley](https://www.linkedin.com/company/hack-a-valley-security-conference/) | 29/08/2026 | Vale do Paraíba, São Paulo | A preencher | Presencial |
 
 ## Setembro
 

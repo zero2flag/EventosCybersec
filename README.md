@@ -9,6 +9,7 @@ Se voce quer se organizar para planejar uma viagem ou participar de eventos de c
 - **README.md**: Explicacao sobre o repositorio e como contribuir.
 - **eventos-2024.md**: Lista dos principais eventos de ciberseguranca planejados para 2024.
 - **eventos-2025.md**: Lista dos principais eventos de ciberseguranca planejados para 2025.
+- **eventos-2026.md**: Lista dos principais eventos de ciberseguranca planejados para 2026.
 
 ## 💼 Como Contribuir
 

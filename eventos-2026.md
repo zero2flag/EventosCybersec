@@ -21,6 +21,7 @@ Uma lista de eventos de cibersegurança confirmados para o ano de **2026**. Esta
 |----------------|---------------|-------|-------------------|---------------------|
 | [RootedCON](https://rootedcon.com) | 05/03/2026 a 07/03/2026| Madrid, Espanha | A Preencher | Presencial |
 | [Hack In Cariri](https://hackincariri.com.br) | 07/03/2026 | Juazeiro do Norte - CE | Evento da comunidade que contém CTF | Presencial |
+| [FEBRABANSEC](https://febrabantech.febraban.org.br/febrabansec) | 18/03/2026 e 19/03/2026 | São Paulo, BR | Focado em Segurança Bancária | Híbrido |
 | [BSides Málaga](https://www.bsidesmalaga.com) | 20/03/2026 | Málaga, Espanha | Evento da Comunidade | Presencial |
 | [Hacking na Web Day DF](https://www.sympla.com.br/evento/hnwd-brasilia-2026/3228889) | 21/03/2026 | Brasilia, DF | Evento da comunidade | Presencial |
 | [RSA Conference](https://www.rsaconference.com/) | 23/03/2026 a 26/03/2026 | San Francisco | Focado em tecnologia e tendências | Presencial |
@@ -39,6 +40,7 @@ Uma lista de eventos de cibersegurança confirmados para o ano de **2026**. Esta
 
 | Nome do Evento | Data do Evento | Local | Tipo de Conteúdo | Online ou Presencial? |
 |----------------|---------------|-------|-------------------|---------------------|
+| [CryptoRave](https://2026.cryptorave.org) | 08/05/2026 a 09/05/2026 | São Paulo, BR | Aborda temas como segurança, criptografia, hacking, anonimato, privacidade e liberdade na rede | Presencial |
 | [SIRENA Human Risk & Cybersec Conference](https://www.sirenaconference.com) | 14/05/2026 | São Paulo, BR | Cultura e Conscientização em Cibersegurança, Soluções e Gestão de Segurança, Carreira, etc | Presencial |
 | [Offensive Security Conference](https://www.offensivecon.org) | 15/05/2026 e 16/05/2026 | Berlin, Alemanha | Altamente técnico focado em segurança ofensiva | Presencial |
 | [BSidesSP](https://securitybsides.com.br/2026/) | 16/05/2026 a 17/05/2026 | São Paulo, BR | Evento que reforça a cena hacking | Presencial |
@@ -50,6 +52,7 @@ Uma lista de eventos de cibersegurança confirmados para o ano de **2026**. Esta
 | Nome do Evento | Data do Evento | Local | Tipo de Conteúdo | Online ou Presencial? |
 |----------------|---------------|-------|-------------------|---------------------|
 | [BSides Recife](https://www.bsidesrecife.com.br) | 06/06/2026 | Recife, PE | Evento da comunidade | Presencial |
+| [FIRST Conference](https://www.first.org/conference/2026/) | 14/06/2026 e 19/06/2026 | Denver, Colorado, USA | A Preencher | Presencial |
 | [BSides VIX](https://bsides.vix.br) | 20/06/2026 | Vitória, ES | Evento que reforça a cena hacking | Presencial |
 | 8.8 Brasil | 26/06/2026 e 27/06/2026 | São Paulo, SP | Evento Técnico | Presencial |
 | [BSides Porto](https://bsidesporto.org)) | 26/06/2026 e 27/06/2026 | Porto, Portugal | Evento que reforça a cena hacking | Presencial |
@@ -68,9 +71,12 @@ Uma lista de eventos de cibersegurança confirmados para o ano de **2026**. Esta
 |----------------|---------------|-------|-------------------|---------------------|
 | BSides Fortaleza | 01/08/2026 | Fortaleza, CE | Evento que reforça a cena hacking | Presencial |
 | [Black Hat USA](https://www.blackhat.com) | 01/08/2026 a 06/08/2026 | Las Vegas | A Preencher | Presencial |
+| [BRHueCon](https://brhuecon.com/2026/) | 03/08/2026 | Las Vegas | Evento para a comunidade brasileira | Presencial |
+| [BSides LV](https://www.bsideslv.org) | 03/08/2026 a 05/08/2026 | Las Vegas, Nevada, USA | Evento da comunidade | Presencial |
 | [Conferência Gartner Segurança & Gestão de Risco](https://www.gartner.com/pt-br/conferences/la/security-risk-management-brazil) | 04/08/2026 a 05/08/2026   | São Paulo, SP | Soluções e tendências mais recentes em cibersegurança | Presencial |
 | [DEF CON 34](https://defcon.org) | 05/08/2026 a 08/08/2026 | Las Vegas | Evento altamente técnico | Presencial |
 | [BXSEC](https://bxsec.org) | 22/08/2026 | Santos, SP | A preencher | Presencial |
+| [Hack'á Valley](https://www.linkedin.com/company/hack-a-valley-security-conference/) | 29/08/2026 | Vale do Paraíba, São Paulo | A preencher | Presencial |
 
 ## Setembro
 

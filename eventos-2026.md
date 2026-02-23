@@ -31,6 +31,7 @@ Uma lista de eventos de cibersegurança confirmados para o ano de **2026**. Esta
 
 | Nome do Evento | Data do Evento | Local | Tipo de Conteúdo | Online ou Presencial? |
 |----------------|---------------|-------|-------------------|---------------------|
+| [GYN Hacker Conference](https://hubconnecteventos.com.br/evento/ghc) | 18/04/2026 | Goiânia, GO | A Preencher | Presencial |
 | [FortalSec](https://www.fortalsec.com.br) | 25/04/2026 | Fortaleza - CE | Evento focado para discutir as mais recentes tendências, ameaças e soluções na segurança | Presencial |
 | [0xe Hacker Conference](https://doity.com.br/0xe-hacker-conference-2026) | 11/04/2026 | Maceio, AL | Conferência dedicado ao compartilhamento do conhecimento sobre hacking e segurança | Presencial |
 | [BSides Colombia](https://bsidesco.org) | 24/04/2026 e 25/04/2026 | Medellín, Colombia | Evento que reforça a cena hacking | Presencial |

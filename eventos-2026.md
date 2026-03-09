@@ -47,6 +47,7 @@ Uma lista de eventos de cibersegurança confirmados para o ano de **2026**. Esta
 | [BSidesSP](https://securitybsides.com.br/2026/) | 16/05/2026 a 17/05/2026 | São Paulo, BR | Evento que reforça a cena hacking | Presencial |
 | [YSTS 18](https://www.ysts.org) | 18/05/2026 | São Paulo, BR | A Preencher | Presencial |
 | [Ekoparty Miami](https://ekoparty.org) | 21/05/2026 a 22/05/2026 | Miami | Evento técnico | Presencial |
+| [Dunasec](https://www.linkedin.com/company/dunasec/) | 30/05/2026 | Natal, Rio Grande do Norte, Brasil | A Preencher | Presencial |
 
 ## Junho
 

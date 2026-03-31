@@ -36,6 +36,7 @@ Uma lista de eventos de cibersegurança confirmados para o ano de **2026**. Esta
 | [0xe Hacker Conference](https://doity.com.br/0xe-hacker-conference-2026) | 11/04/2026 | Maceio, AL | Conferência dedicado ao compartilhamento do conhecimento sobre hacking e segurança | Presencial |
 | [Hackén - 2026](https://hacken.es) | 17/04/2026 e 18/04/2026 | Jaén, Espanha| A Preencher | Presencial |
 | [Black Hat Asia 2026](https://blackhat.com/asia-26/) | 23/04/2026 e 24/04/2026 | Singapore | A Preencher | Presencial |
+| [DEF CON Singapore](https://defcon.org) | 28/04/2026 a 30/04/2026 | Singapore | A Preencher | Presencial |
 | [BSides Colombia](https://bsidesco.org) | 24/04/2026 e 25/04/2026 | Medellín, Colombia | Evento que reforça a cena hacking | Presencial |
 | [BSides Floripa](https://www.bsidesfloripa.org) | 25/04/2026 | Florianópolis, SC | Evento que reforça a cena hacking | Presencial |
 

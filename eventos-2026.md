@@ -34,6 +34,8 @@ Uma lista de eventos de cibersegurança confirmados para o ano de **2026**. Esta
 | [GYN Hacker Conference](https://hubconnecteventos.com.br/evento/ghc) | 18/04/2026 | Goiânia, GO | A Preencher | Presencial |
 | [FortalSec](https://www.fortalsec.com.br) | 25/04/2026 | Fortaleza - CE | Evento focado para discutir as mais recentes tendências, ameaças e soluções na segurança | Presencial |
 | [0xe Hacker Conference](https://doity.com.br/0xe-hacker-conference-2026) | 11/04/2026 | Maceio, AL | Conferência dedicado ao compartilhamento do conhecimento sobre hacking e segurança | Presencial |
+| [Hackén - 2026](https://hacken.es) | 17/04/2026 e 18/04/2026 | Jaén, Espanha| A Preencher | Presencial |
+| [Black Hat Asia 2026](https://blackhat.com/asia-26/) | 23/04/2026 e 24/04/2026 | Singapore | A Preencher | Presencial |
 | [BSides Colombia](https://bsidesco.org) | 24/04/2026 e 25/04/2026 | Medellín, Colombia | Evento que reforça a cena hacking | Presencial |
 | [BSides Floripa](https://www.bsidesfloripa.org) | 25/04/2026 | Florianópolis, SC | Evento que reforça a cena hacking | Presencial |
 
@@ -56,6 +58,8 @@ Uma lista de eventos de cibersegurança confirmados para o ano de **2026**. Esta
 | [BSides Recife](https://www.bsidesrecife.com.br) | 06/06/2026 | Recife, PE | Evento da comunidade | Presencial |
 | [FIRST Conference](https://www.first.org/conference/2026/) | 14/06/2026 e 19/06/2026 | Denver, Colorado, USA | A Preencher | Presencial |
 | [BSides VIX](https://bsides.vix.br) | 20/06/2026 | Vitória, ES | Evento que reforça a cena hacking | Presencial |
+| [OWASP Global AppSec EU 2026](https://owasp.glueup.com/event/owasp-global-appsec-eu-2026-vienna-austria-162243/) | 22/06/2026 a 26/06/2026 (treinamentos: 22–24 / conferência: 25–26) | Austria Center, Viena, Áustria | Conferência internacional de segurança de aplicações da OWASP, edição comemorativa de 25 anos | Presencial |
+| [leHACK - 2026 - Le Brave New World](https://lehack.org) | 26/06/2026 a 28/06/2026 | Paris, França | Evento que reforça a cena hacking | Presencial |
 | 8.8 Brasil | 26/06/2026 e 27/06/2026 | São Paulo, SP | Evento Técnico | Presencial |
 | [BSides Porto](https://bsidesporto.org) | 26/06/2026 e 27/06/2026 | Porto, Portugal | Evento que reforça a cena hacking | Presencial |
 
@@ -94,6 +98,7 @@ Uma lista de eventos de cibersegurança confirmados para o ano de **2026**. Esta
 | Nome do Evento | Data do Evento | Local | Tipo de Conteúdo | Online ou Presencial? |
 |----------------|---------------|-------|-------------------|---------------------|
 | 8.8 Chile | 01/10/2026 e 02/10/2026 | Santiago, Chile | Evento Técnico | Presencial |
+| [Ekoparty 22 Buenos Aires](https://ekoparty.org/ekoparty-buenos-aires-2026/) | 07/10/2026 a 09/10/2026 | Buenos Aires, Argentina | Evento Técnico | Presencial |
 | [Hacking na Web Day](https://www.hackingnawebday.com) | 17/10/2026 | São Paulo, SP | A Preencher | Presencial |
 
 ## Novembro
@@ -108,7 +113,9 @@ Uma lista de eventos de cibersegurança confirmados para o ano de **2026**. Esta
 
 | Nome do Evento | Data do Evento | Local | Tipo de Conteúdo | Online ou Presencial? |
 |----------------|---------------|-------|-------------------|---------------------|
-
+| [Black Hat MEA](https://blackhatmea.com/) | 01/12/2026 a 03/12/2026 | Arábia Saudita | A Preencher | Presencial |
+| [Black Hat Europe 2026](https://blackhat.com/upcoming.html#europe) | 07/12/2026 a 10/12/2026 | London, United Kingdom | A Preencher | Presencial |
+| [40. Chaos Communication Congress (40C3)](https://events.ccc.de) | 27/12/2026 a 30/12/2026 | Hamburgo, Alemanha | Principal congresso anual do Chaos Computer Club | Presencial |
 
 ---
 

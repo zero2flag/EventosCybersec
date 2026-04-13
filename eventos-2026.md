@@ -82,6 +82,7 @@ Uma lista de eventos de cibersegurança confirmados para o ano de **2026**. Esta
 | [BSides LV](https://www.bsideslv.org) | 03/08/2026 a 05/08/2026 | Las Vegas, Nevada, USA | Evento da comunidade | Presencial |
 | [Conferência Gartner Segurança & Gestão de Risco](https://www.gartner.com/pt-br/conferences/la/security-risk-management-brazil) | 04/08/2026 a 05/08/2026   | São Paulo, SP | Soluções e tendências mais recentes em cibersegurança | Presencial |
 | [DEF CON 34](https://defcon.org) | 05/08/2026 a 08/08/2026 | Las Vegas | Evento altamente técnico | Presencial |
+| [OSINTOMÁTICO BRASIL](https://osintomatico.com/) | 13/08/2026 a 15/08/2026 | São Paulo, SP | A preencher | Presencial |
 | [BXSEC](https://bxsec.org) | 22/08/2026 | Santos, SP | A preencher | Presencial |
 | [Hack'a Valley](https://www.linkedin.com/company/hack-a-valley-security-conference/) | 29/08/2026 | Vale do Paraíba, São Paulo | A preencher | Presencial |
 
@@ -106,6 +107,7 @@ Uma lista de eventos de cibersegurança confirmados para o ano de **2026**. Esta
 
 | Nome do Evento | Data do Evento | Local | Tipo de Conteúdo | Online ou Presencial? |
 |----------------|---------------|-------|-------------------|---------------------|
+| [OSINTOMÁTICO ESPAÑA](https://osintomatico.com/) | 04/11/2026 a 06/11/2026 | Alcalá de Henares, España | A preencher | Presencial |
 | [Nullbyte](https://nullbyte.conference.br) | 07/11/2026 | Salvador, BA | Evento altamente técnico | Presencial |
 | [BSides BSB](https://www.instagram.com/bsidesbsb/) | 14/11/2026 | Brasília, DF | Evento da comunidade | Presencial |
 | [BHack Conference](https://www.bhack.com.br) | 28/11/2026 e 29/11/2026 | Belo Horizonte, MG | A Preencher | Presencial |
